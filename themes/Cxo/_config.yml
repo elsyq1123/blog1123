@@ -65,7 +65,7 @@ display_updated: false
 copyright:
   enable: true
   # https://creativecommons.org/
-  license: All articles in this blog are licensed under <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/3.0">CC BY-NC-SA 3.0</a> unless stating additionally.
+  #license: All articles in this blog are licensed under <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/3.0">CC BY-NC-SA 3.0</a> unless stating additionally.
 # comment
 comment:
   # Livere  site: https://livere.com/
