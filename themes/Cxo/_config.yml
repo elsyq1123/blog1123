@@ -14,12 +14,12 @@ signature: Hi(●'◡'●)
   #friendC: //github.com/
 # SNS
 social:
-  email: 
+  email: elvira.suny@gmail.com
   github: //github.com/
-  weibo: //www.weibo.com
-  facebook: //www.facebook.com
-  twitter: //twitter.com
-  rss: /atom.xml
+  ##weibo: //www.weibo.com
+  ##facebook: //www.facebook.com
+  ##twitter: //twitter.com
+  ##rss: /atom.xml
 
 # —————————— Site —————————— #
 # title of the site
